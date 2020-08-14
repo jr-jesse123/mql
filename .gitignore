@@ -1,0 +1,15 @@
+
+# Ignore bots
+logs
+*.ex5
+
+# ignore folders
+Files/
+Images/
+Libraries/
+Logs/
+Presets/
+Profiles/
+Services/
+Shared Projects/
+Experts.dat
